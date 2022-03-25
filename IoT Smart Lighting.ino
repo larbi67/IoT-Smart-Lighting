@@ -5,7 +5,7 @@ const char* ssid     = "SSID";
 const char* password = "Pass WIFI";
 const int ldrPin = A0; // Defining LDR PIN 
 int input_val = 0;  // Varible to store Input values
-const int ledPin = 5; :// pin D1
+const int ledPin = 5; // pin D1
 
 
 WiFiClient  client;
